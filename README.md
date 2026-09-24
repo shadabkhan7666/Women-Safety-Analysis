@@ -1,21 +1,23 @@
 # Women Safety Crime Data Analysis
 
-A Python-based **Exploratory Data Analysis (EDA)** project analyzing crimes against women across different states and years.
-
+A Python-based Exploratory Data Analysis (EDA) project analyzing crimes against women across different states and years.
+<br>
 Technologies:
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-
+<br>
+<br>
 Analysis:
 - Data cleaning and validation
 - Statistical analysis
 - State-wise and year-wise crime analysis
 - Correlation & covariance
 - GroupBy, Pivot Table, Melt & Crosstab
-- **12 data visualizations** using line, bar, pie and scatter charts
-
+- 12 data visualizations** using line, bar, pie and scatter charts
+<br>
+<br>
 Files
 CrimesOnWomenData.csv — Dataset
 WomenSafety.py— Analysis and visualization script
